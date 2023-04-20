@@ -1,0 +1,23 @@
+{
+  "name": "fede_resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elray02/federicoTassoResume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elray02/federicoTassoResume/issues"
+  },
+  "homepage": "https://github.com/Elray02/federicoTassoResume#readme",
+  "dependencies": {
+    "jsonresume-theme-eloquent": "^4.1.0",
+    "jsonresume-theme-even": "^0.18.1"
+  }
+}

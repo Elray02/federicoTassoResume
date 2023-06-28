@@ -3,7 +3,7 @@
   "basics": {
     "name": "Federico Tasso",
     "label": "Programmer",
-    "image": "",
+    "image": "/public/foto_cv.jpeg",
     "email": "tassofede@gmail.com",
     "phone": "(+39)3517474258",
 
@@ -23,7 +23,6 @@
       "position": "Team leader",
       "url": "https://ict-group.it/",
       "startDate": "2021-11-08",
-
       "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
       "highlights": [
         "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
@@ -37,8 +36,8 @@
       "description": "",
       "position": "Senior Frontend dev  ",
       "url": "https://www.fifty-five.com/",
-      "startDate": "2021-11-08",
-      "endDate": "2014-12-01",
+      "startDate": "2019-03-01",
+      "endDate": "2021-11-08",
       "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
       "highlights": [
         "Develop custom SPA",

@@ -7,7 +7,7 @@
     "email": "tassofede@gmail.com",
     "phone": "(+39)3517474258",
 
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinal!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "summary": "I'm an enthusiastic technologist, and sometime I'm an artist too. I'm a senior front-end developer in love with angular since the version 4.4 came out.I have participate to NGgirl as mentor and I love give my help daily in the angular community on Irc ##angular channel.",
     "location": {
       "address": "via Pietro Giannone 9 ",
       "postalCode": "20154",
@@ -17,32 +17,38 @@
   },
   "work": [
     {
-      "name": "Pied Piper",
-      "location": "Palo Alto, CA",
-      "description": "Awesome compression company",
-      "position": "CEO/President",
-      "url": "http://piedpiper.example.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
+      "name": "ICT Group",
+      "location": "Reggio Emilia, IT",
+      "description": "",
+      "position": "Team leader",
+      "url": "https://ict-group.it/",
+      "startDate": "2021-11-08",
+
       "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
       "highlights": [
         "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
         "Successfully won Techcrunch Disrupt",
         "Optimized an algorithm that holds the current world record for Weisman Scores"
       ]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "url": "http://coderdojo.example.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": ["Awarded 'Teacher of the Month'"]
+      "name": "Fifty-five",
+      "location": "Paris, FR",
+      "description": "",
+      "position": "Senior Frontend dev  ",
+      "url": "https://www.fifty-five.com/",
+      "startDate": "2021-11-08",
+      "endDate": "2014-12-01",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "highlights": [
+        "Develop custom SPA",
+        "Create user interface",
+        "Software Architecture",
+        "help juniors in daily work"
+      ]
     }
   ],
+
   "education": [
     {
       "institution": "University of Oklahoma",
@@ -60,13 +66,35 @@
     {
       "name": "Web Development",
       "level": "Master",
-      "keywords": ["HTML", "CSS", "Javascript"]
+      "keywords": [
+        "HTML",
+        "CSS",
+        "es6",
+        "typescript",
+        "Angular",
+        "VuewJs",
+        "primeNg",
+        "D3js"
+      ]
+    },
+    {
+      "name": "Graphic Design",
+      "level": "good",
+      "keywords": ["figma", "Suite Adobe", "Web-flow"]
     }
   ],
   "languages": [
     {
-      "language": "English",
+      "language": "Italian",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "fluent"
     }
   ],
   "interests": [

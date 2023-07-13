@@ -3,7 +3,7 @@
   "basics": {
     "name": "Federico Tasso",
     "label": "Programmer",
-    "image": "./public/foto_cv.jpeg",
+    "image": "https://github.com/Elray02/federicoTassoResume/blob/main/public/foto_cv.jpeg",
     "email": "tassofede@gmail.com",
     "phone": "(+39)3517474258",
 

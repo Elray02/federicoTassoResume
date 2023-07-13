@@ -3,7 +3,7 @@
   "basics": {
     "name": "Federico Tasso",
     "label": "Programmer",
-    "image": "https://github.com/Elray02/federicoTassoResume/blob/main/public/foto_cv.jpeg",
+    "image": "https://raw.githubusercontent.com/Elray02/federicoTassoResume/main/public/foto_cv.jpeg",
     "email": "tassofede@gmail.com",
     "phone": "(+39)3517474258",
 
@@ -25,11 +25,11 @@
       "startDate": "2021-11-08",
       "summary": "Develop and maintain the main product and his custom implementation for the clients",
       "highlights": [
+        "Striving to align Customer Insights to a unified User Experience.",
+        "Collaborate with the PM and the Beackend team to proopose new possible features to the product",
         "Coordinate the Frontend team in his activities",
-        "Mentoring the juniors",
-        "Taking care of the possible improvment of the architecture",
-        "Propose new possible features to the product",
-        "Improve the developer experience"
+        "Improve the developer experience",
+        "Improve the UX"
       ]
     },
     {
@@ -40,12 +40,12 @@
       "url": "https://www.fifty-five.com/",
       "startDate": "2019-03-01",
       "endDate": "2021-11-08",
-      "summary": "Develop and maintain the internal tools for optimize the consultant work",
+      "summary": "Develop and maintain the internal tools for optimize the different process of data elaboration",
       "highlights": [
-        "Develop custom SPA",
-        "Create user interface",
-        "Software Architecture",
-        "help juniors in daily work"
+        "Working closely with the UX and product development team for the creation of responsive UI components.",
+        "Improve the UX",
+        "Help juniors in daily work",
+        "Migrate the projects to a monorepo structure"
       ]
     },
     {
@@ -129,19 +129,32 @@
 
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "Front-end Development ",
+      "level": "Advanced",
       "keywords": [
         "HTML",
         "CSS",
         "es6",
-        "typescript",
+        "Typescript",
         "Angular",
         "VuewJs",
         "primeNg",
-        "D3js",
-        "Ionic"
+        "Ionic",
+        "Cypress",
+        "NgRx",
+        "Rxjs",
+        "Storrybook"
       ]
+    },
+    {
+      "name": "Front-end tooling",
+      "level": "Advanced",
+      "keywords": ["yarn", "npm", "prettier", "ESlint"]
+    },
+    {
+      "name": "Versioning",
+      "level": "Advanced",
+      "keywords": ["git", "git-flow", "gitlab", "github"]
     },
     {
       "name": "Graphic Design",
@@ -170,7 +183,7 @@
     },
     {
       "name": "Culture",
-      "keywords": ["Conteporary Art", "Generative Art", "Photography"]
+      "keywords": ["Conteporary Art", "Generative Art", "Photography", "Movie"]
     }
   ],
 

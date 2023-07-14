@@ -18,6 +18,6 @@
   "homepage": "https://github.com/Elray02/federicoTassoResume#readme",
   "dependencies": {
     "jsonresume-theme-even": "^0.18.1",
-    "jsonresume-theme-rickosborne": "^2022.9.16-T1450"
+    "jsonresume-theme-kendall": "^0.2.0"
   }
 }

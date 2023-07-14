@@ -17,8 +17,7 @@
   },
   "homepage": "https://github.com/Elray02/federicoTassoResume#readme",
   "dependencies": {
-    "jsonresume-theme-8-bit-sheep": "^1.7.0",
-    "jsonresume-theme-eloquent": "^4.1.0",
-    "jsonresume-theme-even": "^0.18.1"
+    "jsonresume-theme-even": "^0.18.1",
+    "jsonresume-theme-rickosborne": "^2022.9.16-T1450"
   }
 }

@@ -26,7 +26,7 @@
       "summary": "Develop and maintain the main product and his custom implementation for the clients",
       "highlights": [
         "Striving to align Customer Insights to a unified User Experience.",
-        "Collaborate with the PM and the Beackend team to proopose new possible features to the product",
+        "Collaborate with the PM and the Backend team to propose new possible features to the product",
         "Coordinate the Frontend team in his activities",
         "Improve the developer experience",
         "Improve the UX"
@@ -69,7 +69,7 @@
       "position": "Frontend dev - Interactive Designer",
       "startDate": "2013-10-01",
       "endDate": "2017-04-01",
-      "summary": "Since my mixed background as Freelance i was often the point of contact with the Designer team and the Dev team. In some cases clients took advantage of my frontend skills other only of my UX knoledge",
+      "summary": "Since my mixed background as Freelance i was often the point of contact with the Designer team and the Dev team. In some cases clients took advantage of my frontend skills other only of my UX knowledge",
       "highlights": [
         "Develop custom web page",
         "Create user interface",
@@ -85,7 +85,7 @@
       "position": "Web/Ui Developer",
       "startDate": "2011-10-01",
       "endDate": "2013-09-30",
-      "summary": "Develop custom website for marketing campains",
+      "summary": "Develop custom website for marketing campaigns",
       "highlights": [
         "Develop custom web page",
         "Create user interface",
@@ -107,7 +107,9 @@
       "courses": [
         "Advanced programming software for artistic purpose",
         "Advanced tool for interaction design",
-        "Develop Custom user interface for artistic purpose"
+        "Experimental user interface for artistic purpose",
+        "Electronic",
+        "Computer vision"
       ]
     },
     {
@@ -118,7 +120,7 @@
       "startDate": "2011",
       "endDate": "2013",
       "courses": [
-        "Develop custom software for artistic purpose with java",
+        "Develop custom software for artistic purpose",
         "Develop custom interactive installation",
         "Video Editing",
         "3d Modelling",
@@ -143,7 +145,7 @@
         "Cypress",
         "NgRx",
         "Rxjs",
-        "Storrybook"
+        "Storybook"
       ]
     },
     {
@@ -183,7 +185,7 @@
     },
     {
       "name": "Culture",
-      "keywords": ["Conteporary Art", "Generative Art", "Photography", "Movie"]
+      "keywords": ["Contemporary Art", "Generative Art", "Photography", "Movie"]
     }
   ],
 

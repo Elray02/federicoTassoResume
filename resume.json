@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Federico Tasso",
-    "label": "Programmer",
+    "label": "Senior frontend dev",
     "image": "https://raw.githubusercontent.com/Elray02/federicoTassoResume/main/public/foto_cv.jpeg",
     "email": "tassofede@gmail.com",
     "phone": "(+39)3517474258",

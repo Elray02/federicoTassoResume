@@ -17,12 +17,30 @@
   },
   "work": [
     {
+      "name": "Traent",
+      "location": "Milano, IT",
+      "description": "Blockchain company that provides enterprise software solutions to digitize and automate business processes",
+      "position": "Senior Frontend dev",
+      "url": "https://traent.com/",
+      "startDate": "2025-05-05",
+      "summary": "Develop and maintain the main product and his custom implementation for the clients.",
+      "highlights": [
+        "Striving to align Customer Insights to a unified User Experience.",
+        "Collaborate with the PO and the Backend team to propose new possible features to the product",
+        "Create Testable and reusable components",
+        "Coordinate the Frontend team in his activities",
+        "Improve the developer experience",
+        "Improve the UX"
+      ]
+    },
+    {
       "name": "ICT Group",
       "location": "Reggio Emilia, IT",
       "description": "Software house that develops enterprise software to manage business operations and customer relation",
       "position": "Team leader",
       "url": "https://ict-group.it/",
       "startDate": "2021-11-08",
+      "endDate": "2025-05-05",
       "summary": "Develop and maintain the main product and his custom implementation for the clients",
       "highlights": [
         "Striving to align Customer Insights to a unified User Experience.",
@@ -145,7 +163,9 @@
         "Cypress",
         "NgRx",
         "Rxjs",
-        "Storybook"
+        "Storybook",
+        "Bootstrap",
+        "tailwind"
       ]
     },
     {
@@ -162,6 +182,11 @@
       "name": "Graphic Design",
       "level": "good",
       "keywords": ["figma", "Suite Adobe", "Web-flow"]
+    },
+    {
+      "name": "Devops",
+      "level": "basic",
+      "keywords": ["docker", "AlpineLinux", "actions"]
     }
   ],
   "languages": [
@@ -181,7 +206,7 @@
   "interests": [
     {
       "name": "Wildlife",
-      "keywords": ["trekking", "Bike"]
+      "keywords": ["trekking", "Bike", "Skate", "Ski"]
     },
     {
       "name": "Culture",
@@ -192,6 +217,6 @@
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
     "version": "v1.0.0",
-    "lastModified": "2017-12-24T15:53:00"
+    "lastModified": "2024-11-23"
   }
 }
